@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895705945387",
+    "firebase_url": "https://qchat-d3e6c.firebaseio.com",
+    "project_id": "qchat-d3e6c",
+    "storage_bucket": "qchat-d3e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895705945387:android:88c49cc80d61bc613ca16e",
+        "android_client_info": {
+          "package_name": "com.chat.qchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895705945387-rlpm12ka19ialrp0kt867js9r944k7fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.qchatapp",
+            "certificate_hash": "9915c50a0c8d72d0601f5ef26c939fdcfeec4e18"
+          }
+        },
+        {
+          "client_id": "895705945387-8i7upugld1dspep5l87jfnh0blhhh6m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaflvDWawHajzahgqq3xhepxR-G68WNJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895705945387-8i7upugld1dspep5l87jfnh0blhhh6m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
